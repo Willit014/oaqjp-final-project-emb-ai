@@ -1,4 +1,3 @@
-# Repository for final project
 # Final Project – AI-Based Emotion Detection Web App
 
 This project was developed as part of the **"Developing AI Applications with Python and Flask"** course.
